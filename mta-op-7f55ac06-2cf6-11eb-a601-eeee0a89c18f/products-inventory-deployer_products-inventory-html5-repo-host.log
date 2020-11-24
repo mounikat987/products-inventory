@@ -1,0 +1,4 @@
+#2.0#2020 11 22 19:12:10.402#Z#DEBUG#com.sap.cloud.lm.sl.xs2.7f55ac06-2cf6-11eb-a601-eeee0a89c18f.products-inventory-deployer_products-inventory-html5-repo-host.startContentDeployTask#
+######org.cloudfoundry.multiapps.controller.persistence.services.ProcessLogger########flowable-async-job-executor-thread-112088###
+[PollDeployContentStatusExecution] [products-inventory-deployer] [INFO] Application content was successfully uploaded { CODE: '1002' }#
+
